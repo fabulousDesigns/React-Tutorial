@@ -1,0 +1,39 @@
+### Table of Contents
+
+- [Table of Contents](#table-of-contents)
+- [What is React?](#what-is-react)
+- [How does React Work?](#how-does-react-work)
+- [React.JS History](#reactjs-history)
+-
+
+### What is React?
+
+React, sometimes referred to as a frontend JavaScript framework, is a JavaScript library created by Facebook.
+
+React is a tool for building UI components.
+
+### How does React Work?
+
+React creates a VIRTUAL DOM in memory.
+
+Instead of manipulating the browser's DOM directly, React creates a virtual DOM in memory, where it does all the necessary manipulating, before making the changes in the browser DOM.
+
+React only changes what needs to be changed!
+
+React finds out what changes have been made, and changes only what needs to be changed.
+
+You will learn the various aspects of how React does this in the rest of this tutorial.
+
+### React.JS History
+
+Current version of React.JS is V17.0.2 (August 2021).
+
+Initial Release to the Public (V0.3.0) was in July 2013.
+
+React.JS was first used in 2011 for Facebook's Newsfeed feature.
+
+Facebook Software Engineer, Jordan Walke, created it.
+
+Current version of create-react-app is v4.0.3 (August 2021).
+
+create-react-app includes built tools such as webpack, Babel, and ESLint.
