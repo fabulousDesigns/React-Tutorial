@@ -14,11 +14,13 @@ node -v
 ```
 
 ![version](version.png)
+
 You can install `nodejs` [here](https://nodejs.org/en/) if you dont have it.
 
 ### React folder
 
 The next task is to navigate to the react folder we are working with for example i have named my folder as `react-js-tut` and it is located on Desktop as shown below.
+
 ![reactfolder](react-folder.png)
 
 ### Create your App
@@ -29,9 +31,10 @@ Running the below command will install the necessary modules and dependencies th
 npx create-react-app fabulous-blog
 ```
 
-> Note that i have named the application as `fabulous-blog`
-> A folder will be generated with the following files and folders. For example in my case i have the following
-> **Folders**
+> Note that i have named the application as `fabulous-blog`.
+
+A folder will be generated with the following files and folders. For example in my case i have the following
+ **Folders**
 
 - node_modules
 - public
@@ -40,7 +43,8 @@ npx create-react-app fabulous-blog
 - package-lock.json
 - package.json
 - readme.md
-  start your application by running the following command which will open your application on the browser at port `localhost:3000`. Below is the command.
+
+start your application by running the following command which will open your application on the browser at port `localhost:3000`. Below is the command.
 
 ```bash
 npm run start
