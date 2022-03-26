@@ -1,10 +1,10 @@
-### What exactly are components
+### Components Overview
 
-Components are basically the bulding blocks for any react application. They represent a section of user Interface for example:- header,sideNav,main-content,footer and much more.
+Components are the bulding blocks for any react application. They represent a section of user Interface which may include:- a header, a sideNav, main-content, a footer and much more.
 
 ### Types of components
 
-There are two types of react components this are:
+There are two types of react components:
 **Stateless Functional Component** - This are javaScript functions whicch maily describe the user interface of the website. An example is shown from the below snippet.
 
 ```javascript
